@@ -1,0 +1,57 @@
+# ======================================
+# 📦 PROYECTO: App Dieta
+# Ignorar archivos innecesarios o sensibles
+# ======================================
+
+# 🐍 Entornos virtuales de Python
+venv/
+.venv/
+ENV/
+env/
+*.py[cod]
+*.pyo
+*.pyd
+__pycache__/
+*.egg-info/
+*.egg
+.eggs/
+
+# 🔧 Configuración local (no subir)
+*.log
+*.sqlite3
+*.db
+.DS_Store
+Thumbs.db
+
+# Archivos de entorno y credenciales
+.env
+.env.*
+*.key
+*.pem
+
+# 🖥️ IDE / Editores
+.vscode/
+.idea/
+*.iml
+*.swp
+*.swo
+*.bak
+
+# 📱 Flutter / Dart
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.buildlog/
+.melos/
+pubspec.lock
+
+# 📦 Dependencias de Node (si usas Flutter web o herramientas)
+node_modules/
+
+# Archivos de compilación
+build/
+ios/Pods/
+android/.gradle/
+android/app/build/
+android/local.properties
