@@ -1,6 +1,6 @@
 # 🍽️ App Dieta
 
-Aplicación para generar menús personalizados según necesidades calóricas, macros y preferencias o alergías
+Aplicación para generar menús personalizados según necesidades calóricas, macros y preferencias o alergias.
 
 Proyecto personal en desarrollo (Fase 1)
 
@@ -21,9 +21,8 @@ El desarrollo se organiza en **fases**, cada una agregando nuevas funcionalidade
 ### 🚀 Fases del proyecto
 
 - **Fase 1 - Registro y login**
-  - Configuración inicial del proyecto
-  - Creación de la base de datos de usuarios
-  - Primeros endpoints
+  - Configuración inicial del proyecto.
+  - Creación de la base de datos de usuarios.
+  - Primeros endpoints.
   - Registro y login de usuarios con hash de contraseñas.
-  - Manejo de tokens de sesión (JWT)
-  
+  - Manejo de tokens de sesión (JWT).
